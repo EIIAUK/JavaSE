@@ -1,0 +1,6 @@
+static （计算机高级语言关键字） 编辑 讨论
+像在VB，C#，C，C++，Java，PHP，Objective-C，
+JavaScript中我们可以看到static作为关键字和函数出现，
+在其他的高级计算机语言如FORTRAN、ALGOL、COBOL、BASIC、LISP、SNOBOL、PL/1、Pascal、
+PROLOG、Ada等语言中也是有出现的，只是有着不同的作用，对于其具体作用，
+读者有需要的时候是可以具体查阅的。

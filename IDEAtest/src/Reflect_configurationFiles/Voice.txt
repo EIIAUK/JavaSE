@@ -1,0 +1,2 @@
+AnimalName=Reflect_configurationFiles.Cat
+MethodName=Voice
